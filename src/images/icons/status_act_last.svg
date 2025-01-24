@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="9px" viewBox="0 0 75 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>app_status/status_act_last</title>
+    <desc>Created with Sketch.</desc>
+    <g id="app_status/status_act_last" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="status_act_last">
+            <g id="Element/status/horizontal_line/line_solid" fill="#ADADAD" fill-rule="nonzero">
+                <polygon id="Line" points="0 5 0 4 33 4 33 5"></polygon>
+            </g>
+            <g id="Element/status/horizontal_line/line_null" transform="translate(42.000000, 0.000000)" fill="#FFFFFF" fill-opacity="0" fill-rule="nonzero">
+                <polygon id="Line" points="0 5 0 4 33 4 33 5"></polygon>
+            </g>
+            <g id="Element/status_bar/dote_active" transform="translate(33.000000, 0.000000)" fill="#64C814">
+                <circle id="Oval-2" cx="4.5" cy="4.5" r="4.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

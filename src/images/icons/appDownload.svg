@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="150px" height="50px" viewBox="0 0 150 50" style="enable-background:new 0 0 150 50;" xml:space="preserve">
+<style type="text/css">
+	.製作陰影{fill:none;}
+	.圓角_x0020_2_x0020_點{fill:#FFFFFF;stroke:#231815;stroke-miterlimit:10;}
+	.即時反射_x0020_X{fill:none;}
+	.柔化斜角{fill:url(#SVGID_1_);}
+	.黃昏{fill:#FFFFFF;}
+	.葉子_GS{fill:#FFE100;}
+	.高捲式髮型_GS{fill-rule:evenodd;clip-rule:evenodd;fill:#4CACE2;}
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000162313873436024548300000008020977738749045378_);}
+	.st1{fill:#666666;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="24.5807" y1="-25.0443" x2="25.2878" y2="-24.3372">
+	<stop  offset="0" style="stop-color:#E6E7EA"/>
+	<stop  offset="0.1747" style="stop-color:#E2E3E6"/>
+	<stop  offset="0.3538" style="stop-color:#D6D7DA"/>
+	<stop  offset="0.5349" style="stop-color:#C1C4C5"/>
+	<stop  offset="0.7174" style="stop-color:#A4A8A8"/>
+	<stop  offset="0.8993" style="stop-color:#808584"/>
+	<stop  offset="1" style="stop-color:#686E6C"/>
+</linearGradient>
+<linearGradient id="SVGID_00000080912970985250775540000006914158811961356714_" gradientUnits="userSpaceOnUse" x1="74.9999" y1="50.0003" x2="74.9999" y2="-9.094947e-13">
+	<stop  offset="0" style="stop-color:#CCCCCC"/>
+	<stop  offset="0.65" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path style="fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000080912970985250775540000006914158811961356714_);" d="M25,0
+	h100c13.8,0,25,11.2,25,25c0,13.8-11.2,25-25,25H25C11.2,50,0,38.8,0,25C0,11.2,11.2,0,25,0z"/>
+<g>
+	<path class="st1" d="M49.6,17.1c-0.6,5.4-1.9,9.6-3.8,12.8c1.3,1.8,2.9,3.3,4.8,4.4c-0.5,0.5-1.3,1.3-1.6,1.9
+		c-1.8-1.1-3.4-2.5-4.7-4.2c-1.3,1.7-3,3.1-4.8,4.1c-0.3-0.5-1-1.3-1.5-1.8v2h-2.2v-4.3c-3,0.5-6.1,1-8.4,1.4L27,31.2
+		c0.7-0.1,1.5-0.2,2.3-0.3V17.1h-1.8V15h12.2v1.8h7.9l0.4-0.1L49.6,17.1z M31.6,17.1V20h4.3v-2.9H31.6z M31.6,25.2h4.3v-3h-4.3V25.2
+		z M35.8,30v-2.7h-4.3v3.3L35.8,30z M38.1,34.2c1.8-1,3.5-2.4,4.8-4.3c-1.6-2.9-2.8-6.3-3.5-10.3l2.2-0.5c0.6,3.1,1.4,6,2.7,8.4
+		c1.2-2.4,2.2-5.2,2.7-8.5h-7.9v-1.9h-1V34.2z"/>
+	<path class="st1" d="M60,19.8c-0.6,1-1.3,2.1-2.1,3.1v13.5h-2.2V25.5c-0.8,0.9-1.8,1.7-2.6,2.4c-0.2-0.5-0.8-1.8-1.2-2.3
+		c2.2-1.6,4.6-4.1,6.1-6.6L60,19.8z M59.6,14.4c-1.5,2.2-4,4.5-6.2,6c-0.2-0.5-0.8-1.4-1.2-1.9c1.9-1.2,4.1-3.3,5.2-5L59.6,14.4z
+		 M75,29.8h-3.6V34c0,1.2-0.2,1.7-1,2c-0.8,0.3-2,0.4-3.8,0.4c-0.1-0.6-0.4-1.5-0.7-2.1c1.2,0,2.4,0,2.8,0c0.4,0,0.5-0.1,0.5-0.4
+		v-4.2h-9.6v-2h9.6V26h-9V24h14.4V26h-3.1v1.8H75V29.8z M63,29.9c1.1,1,2.4,2.4,3.1,3.4l-1.8,1.2c-0.6-0.9-1.9-2.4-3-3.5L63,29.9z
+		 M73.5,22.6h-12v-8.4h12V22.6z M71.1,15.9h-7.4v1.7h7.4V15.9z M71.1,19.2h-7.4v1.7h7.4V19.2z"/>
+	<path class="st1" d="M82.4,16h3.3l6.1,18.4h-3.1l-1.5-5.2h-6.4l-1.6,5.2h-2.9L82.4,16z M81.5,26.9h5l-0.7-2.5c-0.6-2-1.2-4-1.7-6.1
+		h-0.1c-0.5,2.1-1.1,4.1-1.7,6.1L81.5,26.9z"/>
+	<path class="st1" d="M94.2,16h5.6c4.1,0,7,1.4,7,5.6c0,4-2.9,5.9-6.9,5.9h-2.8v7h-2.9V16z M99.6,25.2c2.9,0,4.3-1.1,4.3-3.5
+		c0-2.4-1.5-3.2-4.4-3.2h-2.4v6.8H99.6z"/>
+	<path class="st1" d="M110.4,16h5.6c4.1,0,7,1.4,7,5.6c0,4-2.9,5.9-6.9,5.9h-2.8v7h-2.9V16z M115.8,25.2c2.9,0,4.3-1.1,4.3-3.5
+		c0-2.4-1.5-3.2-4.4-3.2h-2.4v6.8H115.8z"/>
+</g>
+</svg>

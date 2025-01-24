@@ -1,0 +1,333 @@
+i.delete {
+  display: block;
+  width: 14px;
+  height: 15px;
+  background-image: url('~@/images/icons/delete.svg');
+  background-repeat: no-repeat;
+  background-size: 15px;
+}
+
+.triangle {
+  i.triangle-down {
+    display: inline-block;
+    vertical-align: middle;
+    width: 12px;
+    height: 15px;
+    background: url('~@/images/icons/trangle.png')
+      no-repeat top/12px;
+  }
+
+  &.active {
+    .triangle-down {
+      width: 12px;
+      height: 15px;
+      background: url('~@/images/icons/trangle_down_active.png')
+        no-repeat top/12px;
+    }
+  }
+}
+
+i.circle {
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  vertical-align: middle;
+  background: url('~@/images/icons/circle.png')
+    no-repeat center/18px;
+
+  &.active {
+    background: url('~@/images/icons/circle_active.png')
+      no-repeat center/18px;
+  }
+}
+
+i.close {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background: url('~@/images/icons/close.svg')
+    no-repeat center/20px;
+}
+
+i.happygo {
+  display: inline-block;
+  width: 32px;
+  height: 20px;
+  background: url('~@/images/icons/happygo.png')
+    no-repeat center/32px 20px;
+}
+
+i.fcoin {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  background: url('~@/images/icons/fcoin.png')
+    no-repeat center/20px;
+}
+
+i.fcoinwhite {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  background: url('~@/images/icons/fcoin_white.png')
+    no-repeat center/22px;
+}
+
+i.minus {
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+  background: url('~@/images/icons/minus.png')
+    no-repeat center/24px;
+
+  &.active {
+    background: url('~@/images/icons/minus_active.png')
+      no-repeat center/24px;
+  }
+}
+
+i.plus {
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+  background: url('~@/images/icons/plus.png')
+    no-repeat center/24px;
+
+  &.active {
+    background: url('~@/images/icons/plus_active.png')
+      no-repeat center/24px;
+  }
+}
+
+i.wish {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  background: url('~@/images/icons/wish.svg')
+    center center / 30px no-repeat;
+
+  &.active {
+    background: url('~@/images/icons/wish_active.svg')
+      center center / 30px no-repeat;
+  }
+}
+
+i.alert {
+  vertical-align: middle;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background-size: contain;
+  background-image: url('~@/images/icons/alert.png');
+
+  &.green {
+    background-image: url('~@/images/icons/alert_green.png');
+  }
+}
+
+i.notice {
+  vertical-align: text-bottom;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background: url('~@/images/icons/alert.png')
+    no-repeat;
+}
+
+i.notice_gray {
+  vertical-align: text-bottom;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background: url('~@/images/icons/alert_gray.png')
+    center/20px no-repeat;
+}
+
+i.rebate {
+  vertical-align: middle;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background: url('~@/images/icons/fcoin.png');
+}
+
+i.icon-radio {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background: url(https://m.shopping.friday.tw/static/images/common/circle-line-gy.png)
+    center/20px no-repeat;
+
+  &.active {
+    background: url(https://m.shopping.friday.tw/static/images/common/double-circle.svg)
+      center/20px no-repeat;
+  }
+}
+
+i.icon-switch {
+  display: inline-block;
+  width: 40px;
+  height: 22px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-image: url('~@/images/icons/check-switch-off.svg');
+  &.active {
+    background-image: url('~@/images/icons/check-switch-on.svg');
+  }
+}
+
+i.copy {
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  vertical-align: sub;
+  background: url('~@/images/icons/copy.svg')
+    no-repeat;
+}
+
+i.angle-left {
+  display: block;
+  width: 25px;
+  height: 25px;
+  background-image: url('~@/images/icons/angle-right.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  transform: rotate(180deg);
+  position: absolute;
+  left: 6px;
+  top: 10px;
+}
+
+.arrow-right {
+  vertical-align: middle;
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-size: 16px;
+  background-repeat: no-repeat;
+  background-image: url('~@/images/icons/arrow-right.svg');
+  &.left {
+    transform: rotateY(180deg);
+  }
+}
+
+.arrow-right-white {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-size: 16px;
+  background-repeat: no-repeat;
+  background-image: url('~@/images/icons/arrow_right_white.svg');
+}
+
+i {
+  display: inline-block;
+  &.label-red {
+    width: 20px;
+    height: 20px;
+    background: url('~@/images/icons/label_red.svg')
+      no-repeat;
+  }
+  &.label-green {
+    width: 20px;
+    height: 20px;
+    background: url('~@/images/icons/label_green.svg')
+      no-repeat;
+  }
+}
+
+@mixin follow_icon() {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  margin-left: 15px;
+  margin-right: 7px;
+  align-self: center;
+}
+
+.fb {
+  @include follow_icon();
+  background-image: url('~@/images/icons/fb.svg');
+}
+
+.line {
+  @include follow_icon();
+  background-image: url('~@/images/icons/line.svg');
+}
+
+.appDownload {
+  @include follow_icon();
+  background-image: url('~@/images/icons/peopleLinkDownload.svg');
+}
+
+.hotKey_light {
+  background-image: url('~@/images/icons/hotKey_light.svg') !important;
+}
+
+.remove_InputVal{
+  width: 18px;
+  height: 18px;
+  background: url('~@/images/icons/remove_inputVal.svg')
+    center/18px no-repeat;
+}
+
+.back_arrow{
+  width: 45px;
+  height: 45px;
+  background: url('~@/images/icons/back_arrow.png')
+    center/45px no-repeat;
+}
+.next_arrow{
+  width: 18px;
+  height: 18px;
+  background: url('~@/images/icons/next_arrow.png')
+    center/18px no-repeat;
+}
+
+.checkbox {
+  width: 20px;
+  height: 20px;
+  background: url('~@/images/icons/checkbox.png')
+      no-repeat center/20px;
+  &.active {
+    background: url('~@/images/icons/checkbox_active_black.png')
+      no-repeat center/20px;
+  }
+  &.checked {
+    background-image: url('~@/images/icons/checkbox_active_red.svg');
+  }
+}
+
+i.store_type_1 {
+  width: 24px;
+  height: 24px;
+  background: url("~@/images/icons/seven.svg") center/24px 24px no-repeat
+}
+
+i.store_type_2 {
+  width: 24px;
+  height: 24px;
+  background: url("~@/images/icons/family.svg") center/24px 24px no-repeat
+}
+
+i.icon-done{
+  width: 50px;
+  height: 50px;
+  background: url('~@/images/icons/done.svg') center / 50px no-repeat;
+}
+
+i.icon-error{
+  width: 50px;
+  height: 50px;
+  background: url('~@/images/icons/error.svg') center / 50px no-repeat;
+}
+
+i.icon-copy{
+  background-image: url('~@/images/icons/copy.svg');
+  width: 18px;
+  height: 18px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
